@@ -15,30 +15,24 @@ Selected Publications
 ---------------------
 
 [High CD45 expression of CD8+ and CD4+ T cells correlates with the size of HIV-1 reservoir in blood](https://www.nature.com/articles/s41598-020-77433-z)
-
 Using mass cytometry and machine learing, we investigated the expression of 28 markers on CD8+ and CD4+ T cells from HIV-1 infected patients with a variable size of HIV-1 reservoir. We identified phenotypic associations of T cells with size of HIV-1 reservoir. Our results link CD45 expression on T cells to HIV-1 reservoir.
 
 
 [Mobilization of systemic CCL4 following HIV pre-exposure prophylaxis in young men in Africa](https://www.frontiersin.org/articles/10.3389/fimmu.2022.965214/full)
-
 HIV-1 pre-exposure prophylaxis (PrEP) relies on inhibition of HIV-1 replication steps. To understand how PrEP modulates the immunological environment, we examined the plasma proteomic profile of men receiving emtricitabine-tenofovir (FTC-TDF) or emtricitabine-tenofovir alafenamide (FTC-TAF). We registered increased production of inflammatory chemokines CCL4 and CCL3 which potentially block virus attachment to its co-receptor.
 
 
 [Distinct transcriptomic profiles of naïve CD4+ T cells distinguish HIV-1 infected patients initiating antiretroviral therapy at acute or chronic phase of infection](https://www.sciencedirect.com/science/article/pii/S0888754321003219?via%3Dihub)
-
 We analyzed the whole transcriptome characteristics of blood CD4+ T naive cells from HIV-1 infected patients starting ART at acute (EA) or chronic phase (LA) of infection and healthy controls. Focusing on genes involved in apoptosis, inflammation and immune response we observed poor discrimination of EA from healthy individuals suggesting that these two groups present a similar transcriptomic profile of CD4+ naive T cells. The comparison of EA and LA patients resulted in a high cluster divergence revealing that different biological dysfunctions characterize EA and LA patients.
 
 
 [Short-term oral pre-exposure prophylaxis against HIV-1 modulates the transcriptome of foreskin tissue in young men in Africa](https://www.frontiersin.org/articles/10.3389/fimmu.2022.1009978/full)
-
 Here we studied the impact of short-term oral pre-exposure prophylaxis (PrEP) with tenofovir disoproxil fumarate (FTC-TDF) or tenofovir alafenamide (FTC-TDF) in men. Our results show that short-course on-demand oral PrEP in men modulates genes which are likely unfavorable to HIV acquisition and replication. We also describe an upregulated expression of genes involved in diverse mitochondria biology.
 
 
-[*Impaired CD4+ T cell differentiation in HIV-1 infected patients receiving early anti-retroviral therapy*](https://www.sciencedirect.com/science/article/pii/S0888754322001124?via%3Dihub)
-
+[Impaired CD4+ T cell differentiation in HIV-1 infected patients receiving early anti-retroviral therapy](https://www.sciencedirect.com/science/article/pii/S0888754322001124?via%3Dihub)
 Differentiation of CD4+ T naive into central memory cells involves extensive molecular processes. We studied the transcriptome dynamics of naive and memory CD4+ T cells in early-treated HIV-1 infected and healthy individuals. A high degree of transcriptional complexity was detected during transition of maive to memory cells in controls as opposed to infected participants. Analysis of interactions between modulated TFs and target genes revealed important regulatory interactions missing due to HIV infection.
 
 
 [DNA immunization site determines the level of gene expression and the magnitude, but not the type of the induced immune response](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197902)
-
 Optimization of DNA vaccine delivery improves the potency of the immune response and is crucial to clinical success. Here, using in vivo bioluminescence imaging (BLI) we looked into how such optimization impacts the magnitude of the response, its specificity and type. In vitro and in vivo BLI-based assays demonstrated that intradermal delivery strongly improved the immunogenicity.
